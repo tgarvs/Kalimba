@@ -1,0 +1,18 @@
+
+
+
+
+Instrument Name: Kalimba
+
+Brief: At its core, Kalimba is a digital emulation of a hand piano that my mom bought me at a local artists shop in Providence, Rhode Island. It was not made by a professional, so has strange resonance and slightly detuned quality. I believe these imperfections add a sense of nostalgia and comfort. The additional effects in this instrument allow for the artist to control the timbre of the sound and also to expand a simple hand piano pluck into a huge, textural, ambient soundscape. 
+
+Installation: 
+1. 
+
+o Details on Sampling & Processing (Recording methods, sample
+sources, layers used, etc.)
+o Controls Overview (What UI controls do and how they affect the sound)
+o Effects & Custom Features (If applicable)
+
+
+

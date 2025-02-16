@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DecentSampler>
+  <groups attack="0.0" decay="5.0" sustain="0.9999999776482582" release="5.0">
+    <group name="Thumb">
+      <sample path="Samples/Thumb Vel 1.1.wav" rootNote="60" loNote="1" hiNote="61" loVel="1" hiVel="40" volume="1"/>
+      <sample path="Samples/Thumb Vel 1.2.wav" rootNote="62" loNote="62" hiNote="63" loVel="1" hiVel="40" volume="1"/>
+      <sample path="Samples/Thumb Vel 1.3.wav" rootNote="64" loNote="64" hiNote="64" loVel="1" hiVel="40" volume="1"/>
+      <sample path="Samples/Thumb Vel 1.4.wav" rootNote="65" loNote="65" hiNote="66" loVel="1" hiVel="40" volume="1"/>
+      <sample path="Samples/Thumb Vel 1.5.wav" rootNote="67" loNote="67" hiNote="68" loVel="1" hiVel="40" volume="1"/>
+      <sample path="Samples/Thumb Vel 1.6.wav" rootNote="69" loNote="69" hiNote="70" loVel="1" hiVel="40" volume="1"/>
+      <sample path="Samples/Thumb Vel 1.7.wav" rootNote="71" loNote="71" hiNote="71" loVel="1" hiVel="40" volume="1"/>
+      <sample path="Samples/Thumb Vel 1.8.wav" rootNote="72" loNote="72" hiNote="127" loVel="1" hiVel="40" volume="1"/>
+      <sample path="Samples/Thumb Vel 2.1.wav" rootNote="60" loNote="1" hiNote="61" loVel="41" hiVel="80" volume="1"/>
+      <sample path="Samples/Thumb Vel 2.2.wav" rootNote="62" loNote="62" hiNote="63" loVel="41" hiVel="80" volume="1"/>
+      <sample path="Samples/Thumb Vel 2.3.wav" rootNote="64" loNote="64" hiNote="64" loVel="41" hiVel="80" volume="1"/>
+      <sample path="Samples/Thumb Vel 2.4.wav" rootNote="65" loNote="65" hiNote="66" loVel="41" hiVel="80" volume="1"/>
+      <sample path="Samples/Thumb Vel 2.5.wav" rootNote="67" loNote="67" hiNote="68" loVel="41" hiVel="80" volume="1"/>
+      <sample path="Samples/Thumb Vel 2.6.wav" rootNote="69" loNote="69" hiNote="70" loVel="41" hiVel="80" volume="1"/>
+      <sample path="Samples/Thumb Vel 2.7.wav" rootNote="71" loNote="71" hiNote="71" loVel="41" hiVel="80" volume="1"/>
+      <sample path="Samples/Thumb Vel 2.8.wav" rootNote="72" loNote="72" hiNote="127" loVel="41" hiVel="80" volume="1"/>
+      <sample path="Samples/Thumb Vel 3.1.wav" rootNote="60" loNote="1" hiNote="61" loVel="81" hiVel="105" volume="1"/>
+      <sample path="Samples/Thumb Vel 3.2.wav" rootNote="62" loNote="62" hiNote="63" loVel="81" hiVel="105" volume="1"/>
+      <sample path="Samples/Thumb Vel 3.3.wav" rootNote="64" loNote="64" hiNote="64" loVel="81" hiVel="105" volume="1"/>
+      <sample path="Samples/Thumb Vel 3.4.wav" rootNote="65" loNote="65" hiNote="66" loVel="81" hiVel="105" volume="1"/>
+      <sample path="Samples/Thumb Vel 3.5.wav" rootNote="67" loNote="67" hiNote="68" loVel="81" hiVel="105" volume="1"/>
+      <sample path="Samples/Thumb Vel 3.6.wav" rootNote="69" loNote="69" hiNote="70" loVel="81" hiVel="105" volume="1"/>
+      <sample path="Samples/Thumb Vel 3.7.wav" rootNote="71" loNote="71" hiNote="71" loVel="81" hiVel="105" volume="1"/>
+      <sample path="Samples/Thumb Vel 3.8.wav" rootNote="72" loNote="72" hiNote="127" loVel="81" hiVel="105" volume="1"/>
+      <sample path="Samples/Thumb Vel 4.1.wav" rootNote="60" loNote="1" hiNote="61" loVel="106" hiVel="127" volume="1"/>
+      <sample path="Samples/Thumb Vel 4.2.wav" rootNote="62" loNote="62" hiNote="63" loVel="106" hiVel="127" volume="1"/>
+      <sample path="Samples/Thumb Vel 4.3.wav" rootNote="64" loNote="64" hiNote="64" loVel="106" hiVel="127" volume="1"/>
+      <sample path="Samples/Thumb Vel 4.4.wav" rootNote="65" loNote="65" hiNote="66" loVel="106" hiVel="127" volume="1"/>
+      <sample path="Samples/Thumb Vel 4.5.wav" rootNote="67" loNote="67" hiNote="68" loVel="106" hiVel="127" volume="1"/>
+      <sample path="Samples/Thumb Vel 4.6.wav" rootNote="69" loNote="69" hiNote="70" loVel="106" hiVel="127" volume="1"/>
+      <sample path="Samples/Thumb Vel 4.7.wav" rootNote="71" loNote="71" hiNote="71" loVel="106" hiVel="127" volume="1"/>
+      <sample path="Samples/Thumb Vel 4.8.wav" rootNote="72" loNote="72" hiNote="127" loVel="106" hiVel="127" volume="1"/>
+      <effects/>
+    </group>
+    <group name="Nail">
+      <sample path="Samples/Nail Vel 1.1.wav" rootNote="60" loNote="1" hiNote="61" loVel="1" hiVel="40" tags="Nail" volume="1"/>
+      <sample path="Samples/Nail Vel 1.2.wav" rootNote="62" loNote="62" hiNote="63" loVel="1" hiVel="40" tags="Nail" volume="1"/>
+      <sample path="Samples/Nail Vel 1.3.wav" rootNote="64" loNote="64" hiNote="64" loVel="1" hiVel="40" tags="Nail" volume="1"/>
+      <sample path="Samples/Nail Vel 1.4.wav" rootNote="65" loNote="65" hiNote="66" loVel="1" hiVel="40" tags="Nail" volume="1"/>
+      <sample path="Samples/Nail Vel 1.5.wav" rootNote="67" loNote="67" hiNote="68" loVel="1" hiVel="40" tags="Nail" volume="1"/>
+      <sample path="Samples/Nail Vel 1.6.wav" rootNote="69" loNote="69" hiNote="70" loVel="1" hiVel="40" tags="Nail" volume="1"/>
+      <sample path="Samples/Nail Vel 1.7.wav" rootNote="71" loNote="71" hiNote="71" loVel="1" hiVel="40" tags="Nail" volume="1"/>
+      <sample path="Samples/Nail Vel 1.8.wav" rootNote="72" loNote="72" hiNote="127" loVel="1" hiVel="40" tags="Nail" volume="1"/>
+      <sample path="Samples/Nail Vel 2.1.wav" tags="Nail" rootNote="60" loNote="1" hiNote="61" loVel="41" hiVel="80" volume="1"/>
+      <sample path="Samples/Nail Vel 2.2.wav" tags="Nail" rootNote="62" loNote="62" hiNote="63" loVel="41" hiVel="80" volume="1"/>
+      <sample path="Samples/Nail Vel 2.3.wav" tags="Nail" rootNote="64" loNote="64" hiNote="64" loVel="41" hiVel="80" volume="1"/>
+      <sample path="Samples/Nail Vel 2.4.wav" tags="Nail" rootNote="65" loNote="65" hiNote="66" loVel="41" hiVel="80" volume="1"/>
+      <sample path="Samples/Nail Vel 2.5.wav" tags="Nail" rootNote="67" loNote="67" hiNote="68" loVel="41" hiVel="80" volume="1"/>
+      <sample path="Samples/Nail Vel 2.6.wav" tags="Nail" rootNote="69" loNote="69" hiNote="70" loVel="41" hiVel="80" volume="1"/>
+      <sample path="Samples/Nail Vel 2.7.wav" tags="Nail" rootNote="71" loNote="71" hiNote="71" loVel="41" hiVel="80" volume="1"/>
+      <sample path="Samples/Nail Vel 2.8.wav" tags="Nail" rootNote="72" loNote="72" hiNote="127" loVel="41" hiVel="80" volume="1"/>
+      <sample path="Samples/Nail Vel 3.1.wav" tags="Nail" rootNote="60" loNote="1" hiNote="61" loVel="81" hiVel="105" volume="1"/>
+      <sample path="Samples/Nail Vel 3.2.wav" tags="Nail" rootNote="62" loNote="62" hiNote="63" loVel="81" hiVel="105" volume="1"/>
+      <sample path="Samples/Nail Vel 3.3.wav" tags="Nail" rootNote="64" loNote="64" hiNote="64" loVel="81" hiVel="105" volume="1"/>
+      <sample path="Samples/Nail Vel 3.4.wav" tags="Nail" rootNote="65" loNote="65" hiNote="66" loVel="81" hiVel="105" volume="1"/>
+      <sample path="Samples/Nail Vel 3.5.wav" tags="Nail" rootNote="67" loNote="67" hiNote="68" loVel="81" hiVel="105" volume="1"/>
+      <sample path="Samples/Nail Vel 3.6.wav" tags="Nail" rootNote="69" loNote="69" hiNote="70" loVel="127" hiVel="105" volume="1"/>
+      <sample path="Samples/Nail Vel 3.7.wav" tags="Nail" rootNote="71" loNote="71" hiNote="71" loVel="127" hiVel="105" volume="1"/>
+      <sample path="Samples/Nail Vel 3.8.wav" tags="Nail" rootNote="72" loNote="72" hiNote="127" loVel="81" hiVel="105" volume="1"/>
+      <sample path="Samples/Nail Vel 4.1.wav" tags="Nail" rootNote="60" loNote="1" hiNote="61" loVel="106" hiVel="127" volume="1"/>
+      <sample path="Samples/Nail Vel 4.2.wav" tags="Nail" rootNote="62" loNote="62" hiNote="63" loVel="106" hiVel="127" volume="1"/>
+      <sample path="Samples/Nail Vel 4.3.wav" tags="Nail" rootNote="64" loNote="64" hiNote="64" loVel="106" hiVel="127" volume="1"/>
+      <sample path="Samples/Nail Vel 4.4.wav" tags="Nail" rootNote="65" loNote="65" hiNote="66" loVel="106" hiVel="127" volume="1"/>
+      <sample path="Samples/Nail Vel 4.5.wav" tags="Nail" rootNote="67" loNote="67" hiNote="68" loVel="106" hiVel="127" volume="1"/>
+      <sample path="Samples/Nail Vel 4.8.wav" tags="Nail" rootNote="72" loNote="72" hiNote="127" loVel="106" hiVel="127" volume="1"/>
+      <effects/>
+    </group>
+  </groups>
+  <ui bgImage="Resources/kalimba_skin_40.jpg" width="812" height="375" layoutMode="relative" bgMode="top_left">
+    <tab name="main">
+      <menu x="82" y="120" width="65" height="14" value="10" requireSelection="true" placeholderText="Choose...">
+        <option name="Valhalla Long">
+          <binding type="effect" level="instrument" position="2" effectIndex="2" parameter="FX_IR_FILE" translation="fixed_value" translationValue="IR/Valhalla 1.wav"/>
+        </option>
+        <option name="Echo">
+          <binding type="effect" level="instrument" position="2" effectIndex="2" parameter="FX_IR_FILE" translation="fixed_value" translationValue="IR/Echo.wav"/>
+        </option>
+        <option name="Tapeverb">
+          <binding type="effect" level="instrument" position="2" effectIndex="2" parameter="FX_IR_FILE" translation="fixed_value" translationValue="IR/tapeVerb3.wav"/>
+        </option>
+        <option name="Underwater">
+          <binding type="effect" level="instrument" position="2" effectIndex="2" parameter="FX_IR_FILE" translation="fixed_value" translationValue="IR/underwater.wav"/>
+        </option>
+        <option name="Ambience">
+          <binding type="effect" level="instrument" position="2" effectIndex="2" parameter="FX_IR_FILE" translation="fixed_value" translationValue="IR/ambience.wav"/>
+        </option>
+        <option name="Seperate">
+          <binding type="effect" level="instrument" position="2" effectIndex="2" parameter="FX_IR_FILE" translation="fixed_value" translationValue="IR/Valbig30.wav"/>
+        </option>
+        <option name="Tape Wobble">
+          <binding type="effect" level="instrument" position="2" effectIndex="2" parameter="FX_IR_FILE" translation="fixed_value" translationValue="IR/wobble.wav"/>
+        </option>
+        <option name="Space">
+          <binding type="effect" level="instrument" position="2" effectIndex="2" parameter="FX_IR_FILE" translation="fixed_value" translationValue="IR/space.wav"/>
+        </option>
+        <option name="EMT Med">
+          <binding type="effect" level="instrument" position="2" effectIndex="2" parameter="FX_IR_FILE" translation="fixed_value" translationValue="IR/EMT MED.wav"/>
+        </option>
+        <option name="EMT Short">
+          <binding type="effect" level="instrument" position="2" effectIndex="2" parameter="FX_IR_FILE" translation="fixed_value" translationValue="IR/EMT Short.wav"/>
+        </option>
+        <option name="Forest">
+          <binding type="effect" level="instrument" position="2" effectIndex="2" parameter="FX_IR_FILE" translation="fixed_value" translationValue="IR/Forest.wav"/>
+        </option>
+        <option name="Tunnel">
+          <binding type="effect" level="instrument" position="2" effectIndex="2" parameter="FX_IR_FILE" translation="fixed_value" translationValue="IR/Tunnel.wav"/>
+        </option>
+      </menu>
+      <menu x="159" y="120" width="65" height="14" value="10" requireSelection="true" placeholderText="Choose...">
+        <option name="Sample 1">
+          <binding type="effect" level="instrument" position="1" effectIndex="1" parameter="FX_IR_FILE" translation="fixed_value" translationValue="IR/sample3.wav"/>
+        </option>
+        <option name="Sample 4">
+          <binding type="effect" level="instrument" position="1" effectIndex="1" parameter="FX_IR_FILE" translation="fixed_value" translationValue="IR/sample4.wav"/>
+        </option>
+        <option name="Sample 5">
+          <binding type="effect" level="instrument" position="1" effectIndex="1" parameter="FX_IR_FILE" translation="fixed_value" translationValue="IR/sample5.wav"/>
+        </option>
+        <option name="Drip">
+          <binding type="effect" level="instrument" position="1" effectIndex="1" parameter="FX_IR_FILE" translation="fixed_value" translationValue="IR/water dripping.wav"/>
+        </option>
+        <option name="Scrub">
+          <binding type="effect" level="instrument" position="1" effectIndex="1" parameter="FX_IR_FILE" translation="fixed_value" translationValue="IR/tape scrub.wav"/>
+        </option>
+        <option name="Trom">
+          <binding type="effect" level="instrument" position="1" effectIndex="1" parameter="FX_IR_FILE" translation="fixed_value" translationValue="IR/trombone.wav"/>
+        </option>
+        <option name="CSend">
+          <binding type="effect" level="instrument" position="1" effectIndex="1" parameter="FX_IR_FILE" translation="fixed_value" translationValue="IR/CSend.wav"/>
+        </option>
+        <option name="Mesa">
+          <binding type="effect" level="instrument" position="1" effectIndex="1" parameter="FX_IR_FILE" translation="fixed_value" translationValue="IR/MesaAmp.wav"/>
+        </option>
+        <option name="Glass Cup">
+          <binding type="effect" level="instrument" position="1" effectIndex="1" parameter="FX_IR_FILE" translation="fixed_value" translationValue="IR/Glass Cup.wav"/>
+        </option>
+        <option name="Tin Can">
+          <binding type="effect" level="instrument" position="1" effectIndex="1" parameter="FX_IR_FILE" translation="fixed_value" translationValue="IR/can.c.wav"/>
+        </option>
+        <option name="Radio">
+          <binding type="effect" level="instrument" position="1" effectIndex="1" parameter="FX_IR_FILE" translation="fixed_value" translationValue="IR/Radio.wav"/>
+        </option>
+      </menu>
+      <labeled-knob x="84" y="134" width="60" height="60" type="float" minValue="0" maxValue="1" value="0.9999999776482582" trackBackgroundColor="FF2C3E50" trackForegroundColor="FFA0D8E8">
+        <binding type="effect" level="instrument" position="2" parameter="FX_MIX" translation="linear"/>
+      </labeled-knob>
+      <labeled-knob x="160" y="134" width="60" height="60" type="float" minValue="0" maxValue="1" value="0.9999999776482582" trackBackgroundColor="FF2C3E50" trackForegroundColor="FFA0D8E8">
+        <binding type="effect" level="instrument" position="1" parameter="FX_MIX" translation="linear"/>
+      </labeled-knob>
+      <labeled-knob x="579" y="134" width="60" height="60" type="float" minValue="0" maxValue="1" value="0.9999999776482582" trackBackgroundColor="FF2C3E50" trackForegroundColor="FFA0D8E8">
+        <binding type="effect" level="instrument" position="3" parameter="FX_MIX"/>
+      </labeled-knob>
+      <labeled-knob x="638" y="134" width="60" height="60" type="float" minValue="0" maxValue="1" value="0.2599999941885471" trackBackgroundColor="FF2C3E50" trackForegroundColor="FFA0D8E8">
+        <binding type="effect" level="instrument" position="3" parameter="FX_MOD_DEPTH"/>
+      </labeled-knob>
+      <labeled-knob x="697" y="134" width="60" height="60" type="float" minValue="0" maxValue="1" value="0.1699999962002039" trackBackgroundColor="FF2C3E50" trackForegroundColor="FFA0D8E8">
+        <binding type="effect" level="instrument" position="3" parameter="FX_MOD_RATE"/>
+      </labeled-knob>
+      <labeled-knob x="520" y="30" width="60" height="60" type="float" minValue="0" maxValue="1" value="0.0" trackBackgroundColor="FF2C3E50" trackForegroundColor="FFA0D8E8">
+        <binding type="effect" level="instrument" position="4" parameter="FX_WET_LEVEL"/>
+      </labeled-knob>
+      <labeled-knob x="579" y="30" width="60" height="60" type="float" minValue="0" maxValue="5" value="0.0" trackBackgroundColor="FF2C3E50" trackForegroundColor="FFA0D8E8">
+        <binding type="effect" level="instrument" position="4" parameter="FX_DELAY_TIME"/>
+      </labeled-knob>
+      <labeled-knob x="638" y="30" width="60" height="60" type="float" minValue="0" maxValue="1" value="0.0" trackBackgroundColor="FF2C3E50" trackForegroundColor="FFA0D8E8">
+        <binding type="effect" level="instrument" position="4" parameter="FX_FEEDBACK"/>
+      </labeled-knob>
+      <labeled-knob x="697" y="30" width="60" height="60" type="float" minValue="0" maxValue="1" value="0.0" trackBackgroundColor="FF2C3E50" trackForegroundColor="FFA0D8E8">
+        <binding type="effect" level="instrument" position="4" parameter="FX_FEEDBACK"/>
+      </labeled-knob>
+      <labeled-knob x="351" y="30" width="60" height="60" type="float" minValue="0" maxValue="1" value="0.9999999776482582" trackBackgroundColor="FF2C3E50" trackForegroundColor="FFA0D8E8">
+        <binding type="effect" level="instrument" position="0" parameter="FX_FILTER_FREQUENCY" translation="table" translationTable="0,20;0.1,100;0.2,200;0.3,300;0.4,400;0.5,500;0.7,2000;0.9,11000;1.0,22000"/>
+      </labeled-knob>
+      <labeled-knob x="409" y="30" width="60" height="60" type="float" minValue="0" maxValue="1" value="0.7199999839067459" trackBackgroundColor="FF2C3E50" trackForegroundColor="FFA0D8E8">
+        <binding type="effect" level="instrument" position="0" parameter="FX_FILTER_RESONANCE"/>
+      </labeled-knob>
+      <labeled-knob x="293" y="30" width="60" height="60" type="float" minValue="0" maxValue="1" value="0.9999999776482582" trackBackgroundColor="FF2C3E50" trackForegroundColor="FFA0D8E8">
+        <binding type="amp" level="tag" identifier="Nail" parameter="AMP_VOLUME"/>
+      </labeled-knob>
+      <labeled-knob x="293" y="134" width="60" height="60" type="float" minValue="0" maxValue="3" value="0.0" trackBackgroundColor="FF2C3E50" trackForegroundColor="FFA0D8E8">
+        <binding type="amp" level="instrument" position="5" parameter="ENV_ATTACK"/>
+      </labeled-knob>
+      <labeled-knob x="351" y="134" width="60" height="60" type="float" minValue="0" maxValue="5" value="5.0" trackBackgroundColor="FF2C3E50" trackForegroundColor="FFA0D8E8">
+        <binding type="amp" level="instrument" position="5" parameter="ENV_DECAY"/>
+      </labeled-knob>
+      <labeled-knob x="409" y="134" width="60" height="60" type="float" minValue="0" maxValue="1" value="0.9999999776482582" trackBackgroundColor="FFA0D8E8" trackForegroundColor="FFA0D8E8">
+        <binding type="amp" level="instrument" position="5" parameter="ENV_SUSTAIN"/>
+      </labeled-knob>
+      <labeled-knob x="467" y="134" width="60" height="60" type="float" minValue="0" maxValue="5" value="5.0" trackBackgroundColor="FF2C3E50" trackForegroundColor="FFA0D8E8">
+        <binding type="amp" level="instrument" position="5" parameter="ENV_RELEASE"/>
+      </labeled-knob>
+    </tab>
+    <keyboard/>
+  </ui>
+  <effects>
+    <effect type="lowpass" resonance="0.7199999839067459" frequency="21999.99754130899"/>
+    <effect type="convolution" irFile="IR/can.c.wav" mix="0.9999999776482582"/>
+    <effect type="convolution" irFile="IR/EMT Short.wav" mix="0.9999999776482582"/>
+    <effect type="chorus" mix="0.9999999776482582" modDepth="0.2599999941885471" modRate="0.1699999962002039"/>
+    <effect type="delay" delayTime="0.0" stereoOffset="0.01" feedback="0.0" wetLevel="0.0"/>
+  </effects>
+  <tags>
+    <tag name="Nail" volume="0.9999999776482582" pan="0"/>
+  </tags>
+  <buses/>
+  <midi/>
+  <modulators/>
+  <noteSequences/>
+</DecentSampler>
